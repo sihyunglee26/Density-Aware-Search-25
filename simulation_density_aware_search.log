@@ -1,0 +1,48 @@
+2025-10-12 14:55:01 - INFO - N = 16384, M = 128, rho = 0.125, 1 subspace
+2025-10-12 14:55:01 - INFO - generate one subspace of the form 1111xxxxxxxxxx, where 128 solutions and 896 non-solutions are randomly mixed
+2025-10-12 14:55:01 - INFO - Baseline method: with N = 16384, M = 128, and M_estimated = 128, 128 solutions are discovered with 127 + 3307 oracle calls
+2025-10-12 14:55:01 - INFO - Density-aware search: on average, 128.00/128 solutions are discoverd with M_estimated = 128 and 127 + 3738.30 oracle calls
+2025-10-12 14:55:01 - INFO - N = 65536, M = 256, rho = 0.125, 1 subspace
+2025-10-12 14:55:01 - INFO - generate one subspace of the form 11111xxxxxxxxxxx, where 256 solutions and 1792 non-solutions are randomly mixed
+2025-10-12 14:55:01 - INFO - Baseline method: with N = 65536, M = 256, and M_estimated = 246, 242 solutions are discovered with 255 + 7910 oracle calls
+2025-10-12 14:55:02 - INFO - Density-aware search: on average, 245.00/256 solutions are discoverd with M_estimated = 246 and 255 + 7518.40 oracle calls
+2025-10-12 14:55:02 - INFO - N = 262144, M = 512, rho = 0.125, 1 subspace
+2025-10-12 14:55:02 - INFO - generate one subspace of the form 111111xxxxxxxxxxxx, where 512 solutions and 3584 non-solutions are randomly mixed
+2025-10-12 14:55:02 - INFO - Baseline method: with N = 262144, M = 512, and M_estimated = 483, 471 solutions are discovered with 511 + 19952 oracle calls
+2025-10-12 14:55:03 - INFO - Density-aware search: on average, 472.70/512 solutions are discoverd with M_estimated = 483 and 511 + 11151.30 oracle calls
+2025-10-12 14:55:03 - INFO - N = 1048576, M = 1024, rho = 0.125, 1 subspace
+2025-10-12 14:55:03 - INFO - generate one subspace of the form 1111111xxxxxxxxxxxxx, where 1024 solutions and 7168 non-solutions are randomly mixed
+2025-10-12 14:55:03 - INFO - Baseline method: with N = 1048576, M = 1024, and M_estimated = 987, 971 solutions are discovered with 1023 + 55529 oracle calls
+2025-10-12 14:55:07 - INFO - Density-aware search: on average, 974.10/1024 solutions are discoverd with M_estimated = 987 and 1023 + 21366.10 oracle calls
+2025-10-12 14:55:07 - INFO - N = 16384, M = 128, rho = 0.250, 1 subspace
+2025-10-12 14:55:07 - INFO - generate one subspace of the form 11111xxxxxxxxx, where 128 solutions and 384 non-solutions are randomly mixed
+2025-10-12 14:55:07 - INFO - Baseline method: with N = 16384, M = 128, and M_estimated = 128, 128 solutions are discovered with 127 + 3307 oracle calls
+2025-10-12 14:55:07 - INFO - Density-aware search: on average, 128.00/128 solutions are discoverd with M_estimated = 128 and 127 + 2786.30 oracle calls
+2025-10-12 14:55:07 - INFO - N = 65536, M = 256, rho = 0.250, 1 subspace
+2025-10-12 14:55:07 - INFO - generate one subspace of the form 111111xxxxxxxxxx, where 256 solutions and 768 non-solutions are randomly mixed
+2025-10-12 14:55:07 - INFO - Baseline method: with N = 65536, M = 256, and M_estimated = 246, 242 solutions are discovered with 255 + 7133 oracle calls
+2025-10-12 14:55:08 - INFO - Density-aware search: on average, 249.10/256 solutions are discoverd with M_estimated = 246 and 255 + 5252.60 oracle calls
+2025-10-12 14:55:08 - INFO - N = 262144, M = 512, rho = 0.250, 1 subspace
+2025-10-12 14:55:08 - INFO - generate one subspace of the form 1111111xxxxxxxxxxx, where 512 solutions and 1536 non-solutions are randomly mixed
+2025-10-12 14:55:08 - INFO - Baseline method: with N = 262144, M = 512, and M_estimated = 483, 471 solutions are discovered with 511 + 19931 oracle calls
+2025-10-12 14:55:09 - INFO - Density-aware search: on average, 489.00/512 solutions are discoverd with M_estimated = 483 and 511 + 9704.50 oracle calls
+2025-10-12 14:55:09 - INFO - N = 1048576, M = 1024, rho = 0.250, 1 subspace
+2025-10-12 14:55:09 - INFO - generate one subspace of the form 11111111xxxxxxxxxxxx, where 1024 solutions and 3072 non-solutions are randomly mixed
+2025-10-12 14:55:09 - INFO - Baseline method: with N = 1048576, M = 1024, and M_estimated = 987, 967 solutions are discovered with 1023 + 50646 oracle calls
+2025-10-12 14:55:14 - INFO - Density-aware search: on average, 1008.70/1024 solutions are discoverd with M_estimated = 987 and 1023 + 25452.80 oracle calls
+2025-10-12 14:55:14 - INFO - N = 16384, M = 128, rho = 0.500, 1 subspace
+2025-10-12 14:55:14 - INFO - generate one subspace of the form 111111xxxxxxxx, where 128 solutions and 128 non-solutions are randomly mixed
+2025-10-12 14:55:14 - INFO - Baseline method: with N = 16384, M = 128, and M_estimated = 128, 128 solutions are discovered with 127 + 3307 oracle calls
+2025-10-12 14:55:14 - INFO - Density-aware search: on average, 128.00/128 solutions are discoverd with M_estimated = 128 and 127 + 1801.70 oracle calls
+2025-10-12 14:55:14 - INFO - N = 65536, M = 256, rho = 0.500, 1 subspace
+2025-10-12 14:55:14 - INFO - generate one subspace of the form 1111111xxxxxxxxx, where 256 solutions and 256 non-solutions are randomly mixed
+2025-10-12 14:55:14 - INFO - Baseline method: with N = 65536, M = 256, and M_estimated = 246, 242 solutions are discovered with 255 + 7515 oracle calls
+2025-10-12 14:55:14 - INFO - Density-aware search: on average, 256.00/256 solutions are discoverd with M_estimated = 246 and 255 + 3498.20 oracle calls
+2025-10-12 14:55:14 - INFO - N = 262144, M = 512, rho = 0.500, 1 subspace
+2025-10-12 14:55:14 - INFO - generate one subspace of the form 11111111xxxxxxxxxx, where 512 solutions and 512 non-solutions are randomly mixed
+2025-10-12 14:55:14 - INFO - Baseline method: with N = 262144, M = 512, and M_estimated = 483, 468 solutions are discovered with 511 + 19021 oracle calls
+2025-10-12 14:55:16 - INFO - Density-aware search: on average, 512.00/512 solutions are discoverd with M_estimated = 483 and 511 + 6751.30 oracle calls
+2025-10-12 14:55:16 - INFO - N = 1048576, M = 1024, rho = 0.500, 1 subspace
+2025-10-12 14:55:16 - INFO - generate one subspace of the form 111111111xxxxxxxxxxx, where 1024 solutions and 1024 non-solutions are randomly mixed
+2025-10-12 14:55:16 - INFO - Baseline method: with N = 1048576, M = 1024, and M_estimated = 987, 969 solutions are discovered with 1023 + 50590 oracle calls
+2025-10-12 14:55:22 - INFO - Density-aware search: on average, 1024.00/1024 solutions are discoverd with M_estimated = 987 and 1023 + 13153.80 oracle calls
